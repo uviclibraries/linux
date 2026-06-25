@@ -22,7 +22,7 @@ This video shows what Linux Mint looks like. Linux Mint is one of the distributi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-LUaW7e5zQ8?si=VrF0rPobS9hGUheH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### [How To Install MX Linux](https://youtu.be/SOAEVnC6xXQ?si=m_coOI9u63LyUv3K&t=323) (5 min). 
+### [How To Install MX Linux](https://youtu.be/SOAEVnC6xXQ?si=m_coOI9u63LyUv3K&t=323) (5 min)
 
 MX Linux is another distro we might install on some older, slower machines, or older Mac laptops. 
 
