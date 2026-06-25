@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Resurrect Your Laptop with Linux
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/dsc-template/
