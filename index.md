@@ -22,7 +22,7 @@ Most popular Linux operating systems, like Linux Mint and MX Linux, require far 
 Linux is not perfect; no operating system is. But, for everyday computer tasks like writing documents, browsing the internet, listening to music, editing images, and more, it is a truly viable alternative to Windows and Mac operating systems. Because Linux allows for so much more control over your computer than you get with Windows or Mac computers, it is one way to reclaim some control over your digital life. 
 
 
-## Laptop resurrection objectives
+## Laptop resurrection objectives 🪦
 
 This workshop is informal by design, but we still have some hopes that you will learn about the following: 
 
