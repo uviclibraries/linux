@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/linux-intro-01.png" style="float:right;width:400px;" alt="Linux branded laptop punching out of a Windows branded grave site">
+<img src="images/linux-intro-01.png" style="width:600px;" alt="Linux branded laptop punching out of a Windows branded grave site">
 
 # Resurrect Your Laptop with Linux
 
