@@ -32,6 +32,4 @@ This video starts at the point when you would run the MX Linux installer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SOAEVnC6xXQ?si=DMnu2-XD22rE8JaQ&start=335" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-kimholio1275Pembroke!?
-
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
