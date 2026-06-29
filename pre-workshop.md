@@ -5,12 +5,12 @@ nav_order: 2
 ---
 ## Pre-workshop activities
 
-This workshop is meant to be relaxed and welcoming, so there will not be much preparation to do beforehand. However, to get the most out of your time, **we ask that you do the following before you arrive at the workshop:** 
+This workshop is meant to be relaxed and welcoming, so there will not be much preparation to do beforehand. But, to get the most out of your time, **we recommend that you do the following before you arrive at the workshop:** 
 
-- **make sure your laptop works**: there is not much hope for a computer that cannot power-up, sadly
-- **find your laptop's charging cable and double-check that it works**: you will need to bring this with you to the workshop
-- **backup/copy any files you want to preserve to another location** (e.g., another computer, a flash drive or other portable hard drive)
- - **installing Linux will erase all the files, folders, and other content currently stored on your computer.** This includes pictures, documents, music, etc. Put another way, a fresh install of Linux will be erasing/overwriting *everything* on your computer
+- **make sure your laptop works**: there is not much hope for a computer that cannot power-up, sadly.
+- **find your laptop's charging cable and double-check that it works**: you will need to bring this with you to the workshop.
+- **backup/copy any files you want to preserve to another location** (e.g., another computer, a flash drive or other portable hard drive).
+ - **installing Linux will erase all the files, folders, and other content currently stored on your computer.** This includes pictures, documents, music, etc. Put another way, a fresh install of Linux will be erasing/overwriting *everything* on your computer.
 
 ## Optional: review the following videos
 
@@ -32,5 +32,6 @@ This video starts at the point when you would run the MX Linux installer.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SOAEVnC6xXQ?si=DMnu2-XD22rE8JaQ&t=335" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+kimholio1275Pembroke!?
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
