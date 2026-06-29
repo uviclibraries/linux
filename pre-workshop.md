@@ -26,10 +26,12 @@ This video shows what Linux Mint looks like. Linux Mint is one of the distributi
 
 MX Linux is another distro we might install on some older, slower machines, or older Mac laptops. 
 
-Here's a quick walkthrough of the install process, so that you have some idea of what MX Linux's install process and desktop environment looks like. 
+Here's a quick walk-through of the install process, so that you have some idea of what MX Linux's install process and desktop environment looks like. 
 
 This video starts at the point when you would run the MX Linux installer. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SOAEVnC6xXQ?si=DMnu2-XD22rE8JaQ&start=335" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Now that you have a sense of the process, let's move on the things that we will do in the workshop. 
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
