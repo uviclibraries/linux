@@ -34,4 +34,4 @@ This video starts at the point when you would run the MX Linux installer.
 
 Now that you have a sense of the process, let's move on the things that we will do in the workshop. 
 
-[NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
+[NEXT STEP: Installing Linux](install-linux.html){: .btn .btn-blue }
