@@ -21,7 +21,7 @@ This list is not complete, as there are [hundreds of Linux based operating syste
 Rather, we have created a list of what we think of as user-friendly and well-supported distros, that is, distros with regular updates, decent help resources, and general popularity in the Linux community. 
 
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/250px-Linux_Mint_logo_without_wordmark.svg.png" style="float:left;width:100px;padding-right:2%;" alt="Linux Mint logo">[Linux Mint](https://linuxmint.com/)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/250px-Linux_Mint_logo_without_wordmark.svg.png" style="float:right;width:100px;padding-right:2%;" alt="Linux Mint logo">[Linux Mint](https://linuxmint.com/)
 
 We like Linux Mint for its easy interface, and that it has versions for older and slower computers. 
 
@@ -31,7 +31,7 @@ We like Linux Mint for its easy interface, and that it has versions for older an
 - For detailed **technical questions**, checkout the **[Linux Mint Forum](https://forums.linuxmint.com/)**—chances are, someone before you has had the same issue with their computer. 
 
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MX_LINUX_Logo.svg/330px-MX_LINUX_Logo.svg.png" style="float:left;width:100px;padding-right:2%;" alt="Linux Mint logo">[MX Linux](https://mxlinux.org/)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MX_LINUX_Logo.svg/330px-MX_LINUX_Logo.svg.png" style="float:right;width:100px;padding-right:2%;" alt="Linux Mint logo">[MX Linux](https://mxlinux.org/)
 
 MX Linux has gained some traction in the last couple of years, for its stability, customization options, and excellent performance on old(er) machines—it can run on systems with only 1 GB of RAM(!). 
 
@@ -40,7 +40,7 @@ We recommend the [Xfce desktop](https://en.wikipedia.org/wiki/Xfce) version, as 
 - For **help with using MX Linux**, see their [User Manual page](https://mxlinux.org/manuals/).  
 - For detailed **technical questions**, checkout the **[MX Linux Forum](https://forum.mxlinux.org/)**. 
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/250px-UbuntuCoF.svg.png" style="float:left;width:100px;padding-right:2%;" alt="Linux Ubuntu logo">[Ubuntu](https://ubuntu.com/desktop)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/250px-UbuntuCoF.svg.png" style="float:right;width:100px;padding-right:2%;" alt="Linux Ubuntu logo">[Ubuntu](https://ubuntu.com/desktop)
 
 Arguably, Ubuntu is the flagship Linux distribution, and has been for many years. It has a polished, professional interface and excellent stability. Steam, a video game platform, runs well on Ubuntu, too. Dell Computers, for example, offers [new laptops with Ubuntu](https://www.dell.com/en-ca/shop/dell-laptops/scr/laptops/appref=ubuntu-linux-os) as the installed operating system. 
 
