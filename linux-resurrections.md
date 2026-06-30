@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/install-linux-01.png" style="float:right;width:200px;height:200px;" alt="fist holding wrench within gear icon"> 
+<img src="images/res-list-01.png" style="float:right;width:500px;" alt="Tux the Linux penguin sites smiling before a headstone that reads as Windows RIP"> 
 
 # Installing Linux tips 
 
