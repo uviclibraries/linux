@@ -14,7 +14,7 @@ This list is intended to be a little cheeky, but it also serves a purpose: you c
 | <span style='font-size:30px;'>☠️</span> Computer info | <span style='font-size:30px;'>🐦‍🔥</span> System revivifier | 
 | -------- | ------- |
 | 2015 Macbook Air, 11 inch, model A1465 | MX Linux 25.1  Inifinity |
-| Your computer awaits... | [<a href="]https://uviclibraries.github.io/permacomputing/additional-resources.html">Choose your reviver!</a> |
+| Your computer awaits... | <a href="]https://uviclibraries.github.io/permacomputing/additional-resources.html">Choose your reviver!</a> |
 
 
 [NEXT STEP: Additional resources](https://uviclibraries.github.io/permacomputing/additional-resources.html){: .btn .btn-blue }
