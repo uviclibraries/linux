@@ -4,7 +4,7 @@ title: Additional Resources
 nav_order: 10
 ---
 
-<img src="images/resources-01.png" style="float:right;width:200px;" alt="Tux the Linux penguin pointing to an information symbol"> 
+<img src="images/resources-01.png" style="float:right;width:250px;" alt="Tux the Linux penguin pointing to an information symbol"> 
 
 # Additional Linux resources 
 
@@ -57,7 +57,7 @@ The latest version of Ubuntu can run on 4 GB of RAM, but **6 GB is now the recom
 
 - **[OMG Ubuntu](https://www.omgubuntu.co.uk)**: an online magazine that focuses mostly on Ubuntu, but now has a section dedicated other distros, including [Linux Mint](https://www.omgubuntu.co.uk/tag/linux-mint). Find tech tips, updates, help guides, and more on all things Linux.  
 - **[Learn Linux TV](https://www.youtube.com/learnlinuxtv)**: this is a YouTube channel that advertises itself as the "ultimate resource for mastering Linux and open-source technology." It has step-by-step Linux tutorials, distro reviews, tech tips, and more. 
-- **[Linux Journey](https://labex.io/linuxjourney)**: this site is mostly intended for software developers, but there are also some great resource for new Linux users in the "Grasshopper" resources. For example, the [Getting Started](https://labex.io/lesson/linux-history) section has an excellent write-up called [Choosing a Linux Distribution](https://labex.io/lesson/choosing-a-linux-distribution). 
+- **[Linux Journey](https://labex.io/linuxjourney)**: this site is mostly intended for software developers, but there are also some great resources for new Linux users in the "Grasshopper" section. For example, the [Getting Started](https://labex.io/lesson/linux-history) section has an excellent write-up called [Choosing a Linux Distribution](https://labex.io/lesson/choosing-a-linux-distribution). 
 
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
