@@ -11,14 +11,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 This list is intended to be a little cheeky, but it also serves a purpose: you can use it to see what kinds of computers we have resurrected with Linux so that you can see if yours might be a good candidate. 
 
-[https://uviclibraries.github.io/permacomputing/additional-resources.html](Choose your reviver!)
-
 | <span style='font-size:30px;'>☠️</span> Computer info | <span style='font-size:30px;'>🐦‍🔥</span> System revivifier | 
 | -------- | ------- |
 | 2015 Macbook Air, 11 inch, model A1465 | MX Linux 25.1  Inifinity |
 | Your computer awaits | [https://uviclibraries.github.io/permacomputing/additional-resources.html](Choose your reviver) |
 
-[https://uviclibraries.github.io/permacomputing/additional-resources.html](Choose your reviver!)
 
 
 <script>  
