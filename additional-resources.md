@@ -3,6 +3,9 @@ layout: default
 title: Additional Resources
 nav_order: 10
 ---
+
+<img src="images/resources-01.png" style="float:right;width:200px;" alt="Tux the Linux penguin pointing to an information symbol"> 
+
 # Additional Linux resources 
 
 **Before you install any new Linux operating system, be sure to research it**. As much as we have advocated for Linux in this workshop, we also acknowledge that many versions of Linux have notable quirks and even deal breakers. 
