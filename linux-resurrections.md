@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/res-list-01.png" style="float:right;width:500px;" alt="Tux the Linux penguin sites smiling before a headstone that reads as Windows RIP"> 
+<img src="images/res-list-01.png" style="margin:auto;width:600px;" alt="Tux the Linux penguin sites smiling before a headstone that reads as Windows RIP"> 
 
 # Linux resurrections list 
 
