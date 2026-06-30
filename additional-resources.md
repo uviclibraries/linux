@@ -19,7 +19,7 @@ This list is not complete, as there are [hundreds of Linux based operating syste
 Rather, we have created a list of what we think of user-friendly and well-supported distros, that is, distros with regular updates, decent help resources, and general popularity in the Linux community. 
 
 
-### [Linux Mint](https://linuxmint.com/)
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Linux_Mint_logo_without_wordmark.svg/250px-Linux_Mint_logo_without_wordmark.svg.png" style="float:left;width:100px;" alt="Linux Mint logo">[Linux Mint](https://linuxmint.com/)
 
 We like Linux Mint for its easy interface, and that it has versions for older and slower computers. 
 
