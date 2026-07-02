@@ -17,6 +17,12 @@ As loose as this workshop is, we have prepared this page as a kind of checklist,
 
 ## Zooming out: the overall process 
 
+The overall process of installing Linux goes like this: 
+
+1. Load a Linux [ISO image](https://simple.wikipedia.org/wiki/ISO_image) onto a [USB flash drive](https://simple.wikipedia.org/wiki/USB_flash_drive) (we did this step for you in this workshop)
+2. Insert the USB flash drive into your computer and start your computer's boot manager 
+3. In the boot menu, choose to boot from the USB flash drive
+4. Follow the install prompts to install Linux, which ovewrites your Windows or Mac operating system
 
 
 ## Post-install checklist
