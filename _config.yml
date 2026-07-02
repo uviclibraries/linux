@@ -1,5 +1,5 @@
 title: WORKSHOP NAME GOES HERE
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/permacomputing" # the github URL for your repo
