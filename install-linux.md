@@ -23,19 +23,22 @@ Depending on how you prefer to learn, you can walk through this checklist, or no
 
 The intention of this list is to give you some confidence in using your newly minted Linux machine <span style='font-size:20px;'>😎</span>...
 
-- [x] adjust the trackpad and mouse settings as needed: 
-	- **Linux Mint**: open the main application menu (click on the Linux Mint icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired.
-	- **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired.
-- [x] assuming that your laptop has them, test that the volume control and brightness buttons work 
-- [x] make sure that your computer can power up and shut down
-- [x] connect to wifi (for the purposes of the workshop, we assume that you have access to UVic wifi)
-- [x] install some software: 
+- **[x] adjust the trackpad and mouse** settings as needed: 
+	- **Linux Mint**: open the main application menu (click on the Linux Mint icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired
+	- **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired
+- **[x] test that the volume control and brightness buttons work**, assuming that your laptop has them
+- **[x] connect to wifi** (for the purposes of the workshop, we assume that you have access to UVic wifi)
+- **[x] install some software:** 
 	- **Linux Mint**: watch this short YouTube clip to see how to use the Software Manager: 
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/7iKeYnQR-I0?start=0&end=153" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-	
-	- **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired.
-- [x] open Firefox (come pre-installed on both Linux Mint and MX Linux)
-- [x] open a LibreOffice Writer document (comes pre-installed on both Linux Mint and MX Linux)
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/7iKeYnQR-I0?start=0&end=150" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+	- **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > click on "MX Package Installer," then watch this short YouTube clip: 
+
+
+- **[x] open Firefox web browser** (pre-installed on both Linux Mint and MX Linux)
+- **[x] open a LibreOffice Writer document** (pre-installed on both Linux Mint and MX Linux)
+- **[x] run a system update:**
+- **[x] restart your computer:** 
 
 
 
