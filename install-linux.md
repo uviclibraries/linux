@@ -31,21 +31,23 @@ Depending on how you prefer to learn, you can walk through this checklist, or no
 
 The intention of this list is to give you some confidence in using your newly minted Linux machine <span style='font-size:20px;'>😎</span>...
 
-### <span style='font-size:20px;'>✓</span>**adjust the trackpad and mouse** settings as needed
+### <span style='font-size:20px;'>✓</span>**Adjust the trackpad and mouse** settings as needed
+<br>
 
 **Linux Mint**: open the main application menu (click on the Linux Mint icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired
 
 **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired
 
-### <span style='font-size:20px;'>✓</span>**test that the volume control and brightness buttons work** 
+### <span style='font-size:20px;'>✓</span>**Test that the volume control and brightness buttons work** 
 
-assuming that your laptop has them
+Assuming that your laptop has them, click on the volume and screen brightness buttons to see if they work. Many older laptops will already be in the Linux repositories. If only some or none of your buttons work, then please let one of the workshop helpers know. 
 
-### <span style='font-size:20px;'>✓</span>**connect to wifi** 
+### <span style='font-size:20px;'>✓</span>**Connect to wifi** 
 
-for the purposes of the workshop, we assume that you have access to UVic wifi
+For the purposes of this workshop, we assume that you have access to UVic wifi already, and that you have a netlink ID and password. If you do not, then please let one of the workshop helpers know.
 
-### <span style='font-size:20px;'>✓</span>**install some software** 
+### <span style='font-size:20px;'>✓</span>**Install some software** 
+<br>
 
 **Linux Mint**: watch this short YouTube clip to see how to use the Software Manager: 
 
@@ -53,23 +55,40 @@ for the purposes of the workshop, we assume that you have access to UVic wifi
 
 **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > click on "MX Package Installer," then watch this short YouTube clip: 
 
-### <span style='font-size:20px;'>✓</span>**open Firefox web browser**
+### <span style='font-size:20px;'>✓</span>**Open Firefox web browser**
 
 Firefox is pre-installed on both Linux Mint and MX Linux: open the main application menu (click on the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "Firefox" > click on the Firefox icon 
 
-### <span style='font-size:20px;'>✓</span>**open a LibreOffice Writer document** 
+### <span style='font-size:20px;'>✓</span>**Open a LibreOffice Writer document** 
 
-LibreOffice, an open-source and free competitor to Microsoft Office, is pre-installed on both Linux Mint and MX Linux: open the main application menu (click on the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "LibreOffice" > click on the LibreOffice Writer icon in teh search results. Note that LibreOffice has other Microsoft-like software, like "Calc" (replaces Excel), and "Impress" (replaces PowerPoint), and others. 
+LibreOffice, an open-source and free competitor to Microsoft Office, is pre-installed on both Linux Mint and MX Linux. 
 
-### <span style='font-size:20px;'>✓</span>**run a system update**
+To open LibreOffice Writer, click on the main application menu (the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "LibreOffice" > click on the LibreOffice Writer icon in the search results. 
 
-### <span style='font-size:20px;'>✓</span>**restart your computer** 
+Note that LibreOffice has other Microsoft-like software, like "Calc" (replaces Excel), and "Impress" (replaces PowerPoint), and others. 
+
+### <span style='font-size:20px;'>✓</span>**Run a system update**
+<br> 
+
+**Linux Mint:** this short YouTube clip shows you how to run system updates using the built-in Update Manager software: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Hs2opfs2Xk?si=G4HWxZqir_LxTRKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**MX Linux:** this short YouTube clip shows you how to run system updates using the built-in Update Manager software: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRyOQa0A_kU?si=Ee14OSE8xaaL6I1G&amp;start=947&end=1009" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### <span style='font-size:20px;'>✓</span>**Restart your computer** 
+
+We are doing this before you leave, so that we can confirm that you have a working computer—one that can be shut down and started again—at the end of this workshop. Otherwise, we would feel pretty guilty.
+
+If you need some help restarting your computer, then please let one of the workshop helpers know.
 
 ## Next steps: be patient
 
 New systems can be annoying and it takes time to get used to them. Be patient with yourself and expect some hiccups. 
 
-Like any operating system, Linux Mint and MX Linux has some quirks and different ways of doing things. Sometimes, you might find yourself wading into old forum posts to address something specific to your machine. 
+Like any operating system, Linux Mint and MX Linux have some quirks and different ways of doing things. Sometimes, your internet searches to fix things will land you in old forum posts or other kids of help communities. One of the virtues of using Linux is that most experts are happy to point you towards resources or even answer your qu 
 
 If you get annoyed with Linux, remember that at least it's free(!). There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
 
