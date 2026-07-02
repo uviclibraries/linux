@@ -37,10 +37,14 @@ The intention of this list is to give you some confidence in using your newly mi
 	- **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > click on "MX Package Installer," then watch this short YouTube clip: 
 
 
-- [x] **open Firefox web browser** (pre-installed on both Linux Mint and MX Linux)
-- [x] **open a LibreOffice Writer document** (pre-installed on both Linux Mint and MX Linux)
-- [x] **run a system update:**
-- **[x] restart your computer:** 
+#### <span style='font-size:20px;'>✓</span>**open Firefox web browser**Firefox is pre-installed on both Linux Mint and MX Linux: open the main application menu (click on the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "Firefox" > click on the Firefox icon 
+
+#### <span style='font-size:20px;'>✓</span>**open a LibreOffice Writer document** 
+LibreOffice, an open-source and free competitor to Microsoft Office, is pre-installed on both Linux Mint and MX Linux: open the main application menu (click on the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "LibreOffice" > click on the LibreOffice Writer icon in teh search results. Note that LibreOffice has other Microsoft-like software, like "Calc" (replaces Excel), and "Impress" (replaces PowerPoint), and others. 
+
+#### <span style='font-size:20px;'>✓</span>****run a system update:**
+
+#### <span style='font-size:20px;'>✓</span>**restart your computer:** 
 
 ## Next steps: be patient
 
