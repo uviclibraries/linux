@@ -69,6 +69,13 @@ LibreOffice, an open-source and free competitor to Microsoft Office, is pre-inst
 
 New systems can be annoying and it takes time to get used to them. Be patient with yourself and expect some hiccups. 
 
-Like any operating system, Linux Mint and MX Linux has 
+Like any operating system, Linux Mint and MX Linux has some quirks and different ways of doing things. Sometimes, you might find yourself wading into old forum posts to address something specific to your machine. 
+
+If you get annoyed with Linux, remember that at least it's free(!). There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
+
+As a tip for new users, add the words "for beginners" when using a search engine to find Linux tips. For example, you could search on "how to change my desktop background in Linux Mint for beginners."
+
+Thanks for being a part of this workshop! 
+
 
 [NEXT STEP: Additional resources](https://uviclibraries.github.io/permacomputing/additional-resources.html){: .btn .btn-blue }
