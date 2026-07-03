@@ -32,7 +32,6 @@ Depending on how you prefer to learn, you can walk through this checklist, or no
 The intention of this list is to give you some confidence in using your newly minted Linux machine <span style='font-size:20px;'>😎</span>...
 
 ### <span style='font-size:20px;'>✓</span>**Adjust the trackpad and mouse** settings as needed
-<br>
 
 **Linux Mint**: open the main application menu (click on the Linux Mint icon at the bottom-left of the desktop window) > search for "Mouse and Touchpad" > once in the settings panel, make changes as desired
 
@@ -47,7 +46,6 @@ Assuming that your laptop has them, click on the volume and screen brightness bu
 For the purposes of this workshop, we assume that you have access to UVic wifi already, and that you have a netlink ID and password. If you do not, then please let one of the workshop helpers know.
 
 ### <span style='font-size:20px;'>✓</span>**Install some software** 
-<br>
 
 **Linux Mint**: watch this short YouTube clip to see how to use the Software Manager: 
 
@@ -68,7 +66,6 @@ To open LibreOffice Writer, click on the main application menu (the Linux Mint o
 Note that LibreOffice has other Microsoft-like software, like "Calc" (replaces Excel), and "Impress" (replaces PowerPoint), and others. 
 
 ### <span style='font-size:20px;'>✓</span>**Run a system update**
-<br> 
 
 **Linux Mint:** this short YouTube clip shows you how to run system updates using the built-in Update Manager software: 
 
@@ -88,13 +85,15 @@ If you need some help restarting your computer, then please let one of the works
 
 New systems can be annoying and it takes time to get used to them. Be patient with yourself and expect some hiccups. 
 
-Like any operating system, Linux Mint and MX Linux have some quirks and different ways of doing things. Sometimes, your internet searches to fix things will land you in old forum posts or other kids of help communities. One of the virtues of using Linux is that most experts are happy to point you towards resources or even answer your qu 
+Like any operating system, Linux Mint and MX Linux have some quirks and different ways of doing things. Sometimes, your internet searches to fix things night lead you to old forum posts or other kinds of help communities. One of the virtues of using Linux is that most experts are happy to point you towards resources or even answer your questions directly. 
 
-If you get annoyed with Linux, remember that at least it's free(!). There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
+**If you get annoyed with Linux, remember that at least it's free(!)**. There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
 
-As a tip for new users, add the words "for beginners" when using a search engine to find Linux tips. For example, you could search on "how to change my desktop background in Linux Mint for beginners."
+As a **tip for new users**, add the words "for beginners" when using a search engine to find Linux tips. For example, you could search on "how to change my desktop background in Linux Mint for beginners."
 
-Thanks for being a part of this workshop! 
+Thanks for being a part of this workshop: your Linux journey has just begun! 
+
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;" alt="Linux penguin Tux smiling"><figcaption style="font-size:.8em;>[Image source](https://commons.wikimedia.org/wiki/File:Tux_Mono.svg).</figcaption></figure>
 
 
 [NEXT STEP: Additional resources](https://uviclibraries.github.io/permacomputing/additional-resources.html){: .btn .btn-blue }
