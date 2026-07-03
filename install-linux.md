@@ -22,7 +22,7 @@ The overall process of installing Linux goes like this:
 1. Load a Linux [ISO image](https://simple.wikipedia.org/wiki/ISO_image) onto a [USB flash drive](https://simple.wikipedia.org/wiki/USB_flash_drive) (we did this step for you prior to this workshop)
 2. Insert the USB flash drive into your computer and start your computer's boot manager: 
 	- [Windows varies](https://www.wikihow.com/Get-to-the-Boot-Menu-on-Windows) based on a computer's brand and model
-	- [Mac varies](https://support.apple.com/en-ca/guide/mac-help/mchlp1034/mac) between Intel and Silicon based models
+	- [Mac varies](https://support.apple.com/en-ca/guide/mac-help/mchlp1034/mac) between [Intel and Silicon](https://support.apple.com/en-ca/116943) based models
 3. In the boot menu, choose to boot from the USB flash drive
 4. Follow the install prompts to install Linux, which ovewrites your Windows or Mac operating system
 
