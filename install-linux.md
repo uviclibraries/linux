@@ -90,10 +90,10 @@ Like any operating system, Linux Mint and MX Linux have some quirks and differen
 **If you get annoyed with Linux, remember that at least it's free(!)**. There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
 
 As a **tip for new users**, add the words "for beginners" when using a search engine to find Linux tips. For example, you could search on "how to change my desktop background in Linux Mint for beginners."
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;" alt="Linux penguin Tux smiling">
 Thanks for being a part of this workshop: your Linux journey has just begun! 
 
-<figure><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;" alt="Linux penguin Tux smiling"><figcaption style="font-size:.8em;>[Image source](https://commons.wikimedia.org/wiki/File:Tux_Mono.svg).</figcaption></figure>
+<span style="font-size:.8em;">[Tux, the Linux penguin mascot image source](https://commons.wikimedia.org/wiki/File:Tux_Mono.svg).</span>
 
 
 [NEXT STEP: Additional resources](https://uviclibraries.github.io/permacomputing/additional-resources.html){: .btn .btn-blue }
