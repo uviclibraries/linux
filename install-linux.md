@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Installing Linux introduction
 
-We are doing things a little different than usual for this workshop. 
+We are doing things a little different than usual for this workshop.
 
 Rather than leading you through a set of detailed steps, we built this workshop around a **simple plan: (1) get a bunch of people together to install Linux on their machines** and (2) **have some specialists on hand to walk you through the process**. Oh, and (3) to have some snacks and some laughs. 
 
