@@ -55,7 +55,7 @@ For the purposes of this workshop, we assume that you have access to UVic wifi a
 
 **MX Linux Mint**: open the main application menu (click on the MX Linux icon at the bottom-left of the desktop window) > click on "MX Package Installer." See this [MX Linux help guide](https://mxlinux.org/wiki/help-files/help-mx-package-installer/) if you prefer your information in writing, or watch this short YouTube clip: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BRyOQa0A_kU?si=wsw1fv4AztlstbKa?start=713&end=771" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BRyOQa0A_kU?si=wsw1fv4AztlstbKa&start=713&end=771" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### <span style='font-size:20px;'>✓</span> **Open Firefox web browser**
 
