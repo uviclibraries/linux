@@ -30,7 +30,7 @@ We like Linux Mint for its easy interface, and that it has versions for older an
 
 **Be sure to read their [Choose the right edition page](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html) to see which version might work best for your computer.**   
 
-- For **help with using Linux mint**, see the links on their [Documentation page](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html). 
+- For **help with using Linux mint**, see the links on their **[Documentation page](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html)**. 
 - For detailed **technical questions**, checkout the **[Linux Mint Forum](https://forums.linuxmint.com/)**—chances are, someone before you has had the same issue with their computer. 
 
 
@@ -40,7 +40,7 @@ MX Linux has gained some traction in the last couple of years, for its stability
 
 We recommend the [Xfce desktop](https://en.wikipedia.org/wiki/Xfce) version, as it has a straightforward interface and good hardware support across a variety of machines, including [Intel-based Apple computers](https://www.youtube.com/watch?v=E6bTVKXGfE0).     
 
-- For **help with using MX Linux**, see their [User Manual page](https://mxlinux.org/manuals/).  
+- For **help with using MX Linux**, see their **[User Manual page](https://mxlinux.org/manuals/)**.  
 - For detailed **technical questions**, checkout the **[MX Linux Forum](https://forum.mxlinux.org/)**. 
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/250px-UbuntuCoF.svg.png" style="float:right;width:100px;padding-right:2%;" alt="Linux Ubuntu logo">[Ubuntu](https://ubuntu.com/desktop)
@@ -49,7 +49,7 @@ Arguably, Ubuntu is the flagship Linux distribution, and has been for many years
 
 The latest version of Ubuntu can run on 4 GB of RAM, but **6 GB is now the recommended minimum**.        
 
-- For **help with using Ubuntu**, see their [Official Ubuntu Documentation page](https://help.ubuntu.com/).  
+- For **help with using Ubuntu**, see their **[Official Ubuntu Documentation page](https://help.ubuntu.com/)**.  
 - For detailed **technical questions**, checkout the **[CommunityHelpWiki](https://help.ubuntu.com/community/CommunityHelpWiki)**. 
 
 
