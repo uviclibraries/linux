@@ -87,10 +87,10 @@ New systems can be annoying and it takes time to get used to them. Be patient wi
 
 Like any operating system, Linux Mint and MX Linux have some quirks and different ways of doing things. Sometimes, your internet searches to fix things night lead you to old forum posts or other kinds of help communities. One of the virtues of using Linux is that most experts are happy to point you towards resources or even answer your questions directly. 
 
-**If you get annoyed with Linux, remember that at least it's free(!)**. There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
+**If you get annoyed with Linux, remember that at least it's free(!)**. There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;" alt="Linux penguin Tux smiling">
 
 As a **tip for new users**, add the words "for beginners" when using a search engine to find Linux tips. For example, you could search on "how to change my desktop background in Linux Mint for beginners."
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;" alt="Linux penguin Tux smiling">
+
 Thanks for being a part of this workshop: your Linux journey has just begun! 
 
 <span style="font-size:.8em;">[Tux, the Linux penguin mascot image source](https://commons.wikimedia.org/wiki/File:Tux_Mono.svg).</span>
