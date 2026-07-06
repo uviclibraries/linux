@@ -41,13 +41,15 @@ The intention of this list is to give you some confidence in using your newly mi
 
 ### <span style='font-size:20px;'>✓</span> **Test that the volume control and brightness buttons work**
 
-Assuming that your laptop has them, click on the volume and screen brightness buttons to see if they work. Many older laptops will already be in the Linux repositories. If only some or none of your buttons work, then please let one of the workshop helpers know. 
+Assuming that your laptop has them, click on the volume and screen brightness buttons to see if they work. Many older laptop brands and systems will already be in the Linux repositories, meaning that they will be recognized and their keyboard controls will be enabled automatically. If only some or none of your buttons work, then please let one of the workshop helpers know. 
 
 ### <span style='font-size:20px;'>✓</span> **Connect to wifi** 
 
 For the purposes of this workshop, we assume that you have access to UVic wifi already, and that you have a netlink ID and password. If you do not, then please let one of the workshop helpers know.
 
 ### <span style='font-size:20px;'>✓</span> **Install some software** 
+
+Just like Windows and Mac computers, Linux has many available programs, so it is important that you know how to install them. 
 
 **Linux Mint**: watch this short YouTube clip to see how to use the Software Manager: 
 
@@ -65,11 +67,13 @@ Firefox is pre-installed on both Linux Mint and MX Linux: open the main applicat
 
 LibreOffice, an open-source and free competitor to Microsoft Office, is pre-installed on both Linux Mint and MX Linux. 
 
-To open LibreOffice Writer, click on the main application menu (the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "LibreOffice" > click on the LibreOffice Writer icon in the search results. 
+To **open LibreOffice Writer** (an open-source and free competitor to Microsoft Word), click on the main application menu (the Linux Mint or MX Linux icon at the bottom-left of the desktop window) > search for "LibreOffice" > click on the LibreOffice Writer icon in the search results. 
 
 Note that LibreOffice has other Microsoft-like software, like "Calc" (replaces Excel), and "Impress" (replaces PowerPoint), and others. 
 
 ### <span style='font-size:20px;'>✓</span> **Run a system update**
+
+Just like Windows and Mac, Linux systems require updates from time to time. There are [different ways to update Linux systems](https://www.wikihow.com/Install-Software-on-Linux), so we are starting with the basics: using the update manager. 
 
 **Linux Mint:** this short YouTube clip shows you how to run system updates using the built-in Update Manager software: 
 
@@ -89,9 +93,9 @@ If you need some help restarting your computer, then please let one of the works
 
 New systems can be annoying and it takes time to get used to them. Be patient with yourself and expect some hiccups. 
 
-Like any operating system, Linux Mint and MX Linux have some quirks and different ways of doing things. Sometimes, your internet searches to fix things night lead you to old forum posts or other kinds of help communities. One of the virtues of using Linux is that most experts are happy to point you towards resources or even answer your questions directly. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;padding-top:5px;" alt="Linux penguin Tux smiling">
+Like any operating system, Linux Mint and MX Linux have some quirks and different ways of doing things. Sometimes, your internet searches to fix things might lead you to old forum posts or other kinds of help communities. One of the virtues of using Linux is that most experts are happy to point you towards resources or even answer your questions directly. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tux_Mono.svg/250px-Tux_Mono.svg.png" style="float:right;width:200px;padding-top:5px;" alt="Linux penguin Tux smiling">
 
-**If you get annoyed with Linux, remember that at least it's free(!)**. There is also a wealth of Linux help resources on the internet, from dedciated websites, to YouTube tutorials, and forums. 
+**If you get annoyed with Linux, remember that at least it's free(!)**. There is also a wealth of Linux help resources on the internet, from dedciated websites to YouTube tutorials, and many forums. 
 
 As a **tip for new users**, add the words "for beginners" when using a search engine to find Linux tips. For example, you could search on "how to change my desktop background in Linux Mint for beginners."
 
