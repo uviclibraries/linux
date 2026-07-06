@@ -30,7 +30,7 @@ We like Linux Mint for its easy interface, and that it has versions for older an
 
 **Be sure to read their [Choose the right edition page](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html) to see which version might work best for your computer.**   
 
-- For **help with using Linux mint**, see the links on their **[Documentation page](https://linuxmint-installation-guide.readthedocs.io/en/latest/choose.html)**. 
+- For **help with using Linux mint**, see the links on their **[Documentation page](https://linuxmint.com/documentation.php)**.
 - For detailed **technical questions**, checkout the **[Linux Mint Forum](https://forums.linuxmint.com/)**—chances are, someone before you has had the same issue with their computer. 
 
 
