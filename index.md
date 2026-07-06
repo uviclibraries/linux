@@ -19,8 +19,9 @@ Most popular Linux operating systems, like Linux Mint and MX Linux, require far 
 
 **Linux is growing all the time**. Currently, and depending of what type of Linux operating system you install, you have access to tens of thousands of software packages, and all for free. Linux also has a number of commonly used, open-source apps to replace the ones you might find on Windows or Mac systems. For example, LibreOffice is an open source office suite intended to compete with Microsoft Office.
 
-Linux is not perfect; no operating system is. But, for everyday computer tasks like writing documents, browsing the internet, listening to music, editing images, and more, it is a truly viable alternative to Windows and Mac operating systems. Because Linux allows for so much more control over your computer than you get with Windows or Mac computers, it is one way to reclaim some control over your digital life. 
+Linux is not perfect—no operating system is. But, for everyday computer tasks like writing documents, browsing the internet, listening to music, editing images, and more, it is a truly viable alternative to Windows and Mac operating systems. In many ways, Linux allows for much more control over your computer than you get with Windows or Mac computers. 
 
+In a computational ecosystem of big business, forced upgrades, and malicious malware, Linux offers a welcome alternative, and all for free. 
 
 ## Laptop resurrection objectives 🪦
 
