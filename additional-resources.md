@@ -12,7 +12,7 @@ nav_order: 10
 
 For example, it might be that your laptop brand and model have a known problem with a graphics card, or wifi failures, or any number of glitches. Usually, you can find fixes for most issues, but you have to balance this against your technology skills, motivation, and patience, so do your research. 
 
-Many still choose to work through Linux's occasional niggles because they are free operating systems that allow you to install some truly excellent, **free software**.
+Many still choose to work through Linux's occasional niggles because they are free operating systems that allow you to install some truly excellent, **[free software](https://itsfoss.com/essential-linux-applications/)**.
 
 Finally, Linux operating systems do not require antivirus software, mostly because [Linux viruses are so rare](https://help.ubuntu.com/stable/ubuntu-help/net-antivirus.html.en) and because of the way the systems are designed: nothing can be installed without your explicit permission. 
 
@@ -45,7 +45,7 @@ We recommend the [Xfce desktop](https://en.wikipedia.org/wiki/Xfce) version, as 
 
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/250px-UbuntuCoF.svg.png" style="float:right;width:100px;padding-right:2%;" alt="Linux Ubuntu logo">[Ubuntu](https://ubuntu.com/desktop)
 
-Arguably, Ubuntu is the flagship Linux distribution, and has been for many years. It has a polished, professional interface and excellent stability. Steam, a video game platform, runs well on Ubuntu, too. Dell Computers, for example, offers [new laptops with Ubuntu](https://www.dell.com/en-ca/shop/dell-laptops/scr/laptops/appref=ubuntu-linux-os) as the installed operating system. 
+Arguably, Ubuntu is the flagship Linux distribution, and has been for many years. It has a polished, professional interface and excellent stability. Steam, a popular video game platform, runs well on Ubuntu, too. Dell Computers, for example, offers [new laptops with Ubuntu](https://www.dell.com/en-ca/shop/dell-laptops/scr/laptops/appref=ubuntu-linux-os) as the installed operating system. 
 
 The latest version of Ubuntu can run on 4 GB of RAM, but **6 GB is now the recommended minimum**.        
 
@@ -55,7 +55,8 @@ The latest version of Ubuntu can run on 4 GB of RAM, but **6 GB is now the recom
 
 ## Other Linux resources
 
-- **[OMG Ubuntu](https://www.omgubuntu.co.uk)**: an online magazine that focuses mostly on Ubuntu, but now has a section dedicated other distros, including [Linux Mint](https://www.omgubuntu.co.uk/tag/linux-mint). Find tech tips, updates, help guides, and more on all things Linux.  
+- **[OMG Ubuntu](https://www.omgubuntu.co.uk)**: an online magazine that focuses mostly on Ubuntu, but now has a section dedicated other distros, including [Linux Mint](https://www.omgubuntu.co.uk/tag/linux-mint). Find tech tips, updates, help guides, and more on all things Linux.
+- **[It's FOSS](https://itsfoss.com/)**: another popular online magazine that focuses on "Open Source in general and Linux in particular," according to the site's mandate ("FOSS" is an initialism for Free and Open Source).
 - **[Learn Linux TV](https://www.youtube.com/learnlinuxtv)**: this is a YouTube channel that advertises itself as the "ultimate resource for mastering Linux and open-source technology." It has step-by-step Linux tutorials, distro reviews, tech tips, and more. 
 - **[Linux Journey](https://labex.io/linuxjourney)**: this site is mostly intended for software developers, but there are also some great resources for new Linux users in the "Grasshopper" section. For example, the [Getting Started](https://labex.io/lesson/linux-history) section has an excellent write-up called [Choosing a Linux Distribution](https://labex.io/lesson/choosing-a-linux-distribution). 
 
