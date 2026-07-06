@@ -7,14 +7,16 @@ nav_order: 2
 
 This workshop is meant to be relaxed and welcoming, so there will not be much preparation to do beforehand. But, to get the most out of your time, **we recommend that you do the following before you arrive at the workshop:** 
 
-- **make sure your laptop works**: there is not much hope for a computer that cannot power-up, sadly.
-- **find your laptop's charging cable and double-check that it works**: you will need to bring this with you to the workshop.
-- **backup/copy any files you want to preserve to another location** (e.g., another computer, a flash drive or other portable hard drive).
- - **installing Linux will erase all the files, folders, and other content currently stored on your computer.** This includes pictures, documents, music, etc. Put another way, a fresh install of Linux will be erasing/overwriting *everything* on your computer.
+- **make sure your laptop works**: there is not much hope for a computer that cannot power-up, sadly
+- **find your laptop's charging cable and double-check that it works**: you will need to bring this with you to the workshop
+- **backup/copy any files you want to preserve to another location**, for example, another computer, a flash drive or other portable hard drive
+ - **installing Linux will erase all the files, folders, and other content currently stored on your computer**, this includes pictures, documents, music, etc.; in other words, a fresh install of Linux will erase/overwrite *everything* on your computer
+
+For the super keen, we have some **optional activities**, below, to check out prior to the workshop.
 
 ## Optional: review the following videos
 
-For those who have never seen Linux operating systems, or are curious about the install process, here's a couple of short, introductory YouTube videos. 
+For those who have never seen Linux operating systems, or are curious about the install process, here's a couple of short, introductory YouTube videos to review.
 
 ### [How to use Linux Mint - Demo for beginners](https://www.youtube.com/watch?v=-LUaW7e5zQ8) (8 min)
 
