@@ -104,4 +104,4 @@ Thanks for being a part of this workshop: your Linux journey has just begun!
 <span style="font-size:.8em;">[Tux, the Linux penguin mascot image source](https://commons.wikimedia.org/wiki/File:Tux_Mono.svg).</span>
 
 
-[NEXT STEP: Additional resources](https://uviclibraries.github.io/permacomputing/additional-resources.html){: .btn .btn-blue }
+[NEXT STEP: Additional resources](https://uviclibraries.github.io/linux/additional-resources.html){: .btn .btn-blue }
