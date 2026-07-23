@@ -33,5 +33,6 @@ This workshop is informal by design, but we still have some hopes that you will 
 - the basics of how to use your Linux operating system
 - where to go for more Linux resources and support
 
- 
+Link: [Linux workshop slideshow](https://docs.google.com/presentation/d/153Lzo-xU1JQ4Akg3fpLsdnvr4iqyR43D6JpiKkx4yPM/edit?usp=sharing)
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
