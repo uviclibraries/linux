@@ -6,6 +6,14 @@ nav_order: 10
 
 <img src="images/resources-01.png" style="float:right;width:250px;" alt="Tux the Linux penguin pointing to an information symbol"> 
 
+# Learn more about permacomputing
+
+The [permacomputing website](https://permacomputing.net/) describes permacomputing as "both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.” 
+
+We do not endorse everything on the permacomputing website, but we do agree with what we interpret as the permacomputing community's broad aims to (1) reduce technology waste, (2) improve technological equity and autonomy, and (3) reduce barriers to computational participation. 
+
+Check out the permacomputing website's [project page](https://permacomputing.net/projects/) to see how others have interpreted and applied permacomputing practices.  
+
 # Additional Linux resources 
 
 **Before you install any new Linux operating system, be sure to research it**. As much as we have advocated for Linux in this workshop, we also acknowledge that many versions of Linux have notable quirks and even deal breakers. 
